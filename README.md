@@ -11,7 +11,7 @@ Here is Shengzhe GAN.
 
 ![Github_States](https://github-readme-stats-rosy-kappa.vercel.app/api?username=Lgx521&hide_border=true)   
 
-![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Wendy-Ying&layout=compact&hide_border=true&size_weight=0.05&count_weight=0.9&langs_count=10&hide=assembly,makefile,html)
+![Top Langs](https://github-readme-stats-rosy-kappa.vercel.app/api/top-langs/?username=Lgx521&layout=compact&hide_border=true&size_weight=0.05&count_weight=0.9&langs_count=10&hide=assembly,makefile,html)
 
 
 <!--
