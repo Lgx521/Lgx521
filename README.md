@@ -5,7 +5,7 @@ Here is Shengzhe GAN.
 - 🔭 I’m currently living and studying at the [Southern University of Science and Technology](https://sustech.edu.cn).
 - ⚡ Sophomore student majoring in *Information Engineering*, Department of *EEE*.
 - 🤔 Currently interest in AI, robotics perception and planning.
-- 🌱 Continuously growing.  
+- 🌱 Continuously growing... 
 - 📫 Feel free to reach me via email at [shengzhegan04@gmail.com](shengzhegan04@gmail.com)
 
 
