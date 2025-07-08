@@ -2,9 +2,12 @@
 
 Here is Shengzhe GAN.
 
+<!--
 - 🔭 I’m currently living and studying at the [Southern University of Science and Technology](https://sustech.edu.cn).
-- ⚡ Sophomore student majoring in *Information Engineering*, Department of *EEE*.
-- 🤔 Currently interest in AI, robotics perception and planning.
+-->
+- 🔭 I’m currently living and doing some research at the [University of Notre Dame(https://nd.edu).
+- ⚡ Upcoming Junior student majoring in *Information Engineering*, Department of *EEE*.
+- 🤔 Currently interest in AI based and conventional robotics perception.
 - 🌱 Continuously growing... 
 - 📫 Feel free to reach me via email at [shengzhegan04@gmail.com](shengzhegan04@gmail.com)
 
