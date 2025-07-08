@@ -5,7 +5,7 @@ Here is Shengzhe GAN.
 <!--
 - 🔭 I’m currently living and studying at the [Southern University of Science and Technology](https://sustech.edu.cn).
 -->
-- 🔭 I’m currently living and doing some research at the [University of Notre Dame(https://nd.edu).
+- 🔭 I’m currently living and doing some research at the [University of Notre Dame](https://nd.edu).
 - ⚡ Upcoming Junior student majoring in *Information Engineering*, Department of *EEE*.
 - 🤔 Currently interest in AI based and conventional robotics perception.
 - 🌱 Continuously growing... 
