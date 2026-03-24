@@ -7,7 +7,7 @@ Here is Shengzhe GAN.
 -->
 - 🔭 I’m currently living and studying at the [Southern University of Science and Technology](https://sustech.edu.cn).
 - ⚡  Junior student majoring in *Information Engineering*, Department of *EEE*.
-- 🤔 Currently interest Robotics, Spatial Intelligence, World Model , 3D Perception & Reconstruction.
+- 🤔 Currently interest Robotics, World Model, Multi-Modal Models, 3D Perception & Reconstruction.
 - 🌱 Continuously growing... 
 - 📫 Feel free to reach me via email at [shengzhegan04@gmail.com](shengzhegan04@gmail.com)
 
